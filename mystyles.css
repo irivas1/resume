@@ -1,0 +1,82 @@
+body {
+    background-color:midnightblue;
+    
+    color:gold;
+    font-family: rockwell;
+    font-size: larger;
+
+
+    
+
+}
+
+header
+{ font-size: x-large;
+    font-family: stencil;
+    position:static;
+
+
+}
+
+p {
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    width:40%
+    
+    
+    
+    
+
+
+}
+
+nav {
+    
+    background-color: blue;
+    border-color: rgba(224, 192, 7, 0.836);
+    height: 45px;
+    font-size: x-large;
+    font-style: penumbra;
+
+    
+
+
+}
+
+
+
+
+
+
+img {
+border-radius: 10px;
+float:right;
+border: solid 5px gold
+
+}
+
+A {
+color:gold;
+
+
+}
+
+a:hover{ background-color: orange;}
+
+a:visited{
+color: rgb(13, 255, 13);
+
+}
+
+a:active{
+color:orangered;
+
+}
+
+
+
+    
+    
+
+
